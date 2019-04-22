@@ -1,5 +1,4 @@
 ---
-redirect_from: "/foo/"
-redirect_from: "/bar/"
+redirect_from: "/"
 ---
 Which way does this redirect?
